@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating  branch is quick And simple1.
 can(((
 Thisa  "stash" test!
+Thit is a successful test!
